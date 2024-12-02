@@ -1,7 +1,7 @@
 # DataScience
 ==============================
 
-This repo contains my tests on some datastes
+This repo contains my tests on some datasets
 
 Project Organization
 ------------
